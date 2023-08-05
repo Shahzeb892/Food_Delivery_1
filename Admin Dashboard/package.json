@@ -70,7 +70,7 @@
     "react-router-dom": "4.3.1",
     "react-scripts": "2.1.8",
     "reactstrap": "7.1.0",
-    "styled-components": "5.1.0",
+    "styled-components": "5.3.11",
     "subscriptions-transport-ws": "^0.9.16",
     "validate.js": "^0.12.0"
   },
