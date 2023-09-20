@@ -67,7 +67,7 @@
     "expo-status-bar": "~1.4.2",
     "expo-tracking-transparency": "~3.0.1",
     "expo-updates": "~0.15.6",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.10.1",
     "i18n-js": "^3.2.2",
     "lodash": "^4.17.21",
